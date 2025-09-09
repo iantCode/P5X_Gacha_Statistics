@@ -2,23 +2,23 @@
     "Gold": {
         "region": "en",
         "gacha_type": 1,
-        "avg_pity": 54.5745,
-        "count": 597,
+        "avg_pity": 54.608,
+        "count": 602,
         "lose_5050_rate": 0.0
     },
     "Fortune": {
         "region": "en",
         "gacha_type": 2,
-        "avg_pity": 56.7565,
-        "count": 2053,
-        "lose_5050_rate": 0.4525
+        "avg_pity": 56.7792,
+        "count": 2092,
+        "lose_5050_rate": 0.4517
     },
     "Weapon": {
         "region": "en",
         "gacha_type": 3,
-        "avg_pity": 52.5601,
-        "count": 982,
-        "lose_5050_rate": 0.4287
+        "avg_pity": 52.6597,
+        "count": 1002,
+        "lose_5050_rate": 0.4291
     },
     "Newcomer": {
         "region": "en",
