@@ -58,9 +58,9 @@
             "Fortune": {
                 "region": "en",
                 "gacha_type": 2,
-                "avg_pity": 58.7741,
-                "count": 571,
-                "lose_5050_rate": 0.3415
+                "avg_pity": 58.75,
+                "count": 572,
+                "lose_5050_rate": 0.3427
             },
             "Weapon": {
                 "region": "en",

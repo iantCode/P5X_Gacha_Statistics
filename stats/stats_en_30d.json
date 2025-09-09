@@ -445,9 +445,9 @@
             "Fortune": {
                 "region": "en",
                 "gacha_type": 2,
-                "avg_pity": 57.8473,
-                "count": 131,
-                "lose_5050_rate": 0.9389
+                "avg_pity": 58.0152,
+                "count": 132,
+                "lose_5050_rate": 0.9394
             },
             "Weapon": {
                 "region": "en",
@@ -574,9 +574,9 @@
             "Fortune": {
                 "region": "en",
                 "gacha_type": 2,
-                "avg_pity": 75.5556,
-                "count": 9,
-                "lose_5050_rate": 0.6667
+                "avg_pity": 72.1,
+                "count": 10,
+                "lose_5050_rate": 0.7
             },
             "Weapon": {
                 "region": "en",
@@ -796,8 +796,8 @@
             "Weapon": {
                 "region": "en",
                 "gacha_type": 3,
-                "avg_pity": 46.0,
-                "count": 2,
+                "avg_pity": 33.3333,
+                "count": 3,
                 "lose_5050_rate": 1.0
             },
             "Newcomer": {
@@ -832,8 +832,8 @@
             "Fortune": {
                 "region": "en",
                 "gacha_type": 2,
-                "avg_pity": 55.0,
-                "count": 6,
+                "avg_pity": 58.5714,
+                "count": 7,
                 "lose_5050_rate": 0.0
             },
             "Weapon": {
@@ -1047,9 +1047,9 @@
             "Fortune": {
                 "region": "en",
                 "gacha_type": 2,
-                "avg_pity": 58.7741,
-                "count": 571,
-                "lose_5050_rate": 0.3415
+                "avg_pity": 58.75,
+                "count": 572,
+                "lose_5050_rate": 0.3427
             },
             "Weapon": {
                 "region": "en",

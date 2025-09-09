@@ -9,16 +9,16 @@
     "Fortune": {
         "region": "en",
         "gacha_type": 2,
-        "avg_pity": 56.7358,
-        "count": 2048,
-        "lose_5050_rate": 0.4517
+        "avg_pity": 56.7565,
+        "count": 2053,
+        "lose_5050_rate": 0.4525
     },
     "Weapon": {
         "region": "en",
         "gacha_type": 3,
-        "avg_pity": 52.6055,
-        "count": 981,
-        "lose_5050_rate": 0.4281
+        "avg_pity": 52.5601,
+        "count": 982,
+        "lose_5050_rate": 0.4287
     },
     "Newcomer": {
         "region": "en",
