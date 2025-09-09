@@ -1,0 +1,37 @@
+{
+    "Gold": {
+        "region": "sea",
+        "gacha_type": 1,
+        "avg_pity": 45.9434,
+        "count": 53,
+        "lose_5050_rate": 0.0
+    },
+    "Fortune": {
+        "region": "sea",
+        "gacha_type": 2,
+        "avg_pity": 58.602,
+        "count": 98,
+        "lose_5050_rate": 0.5408
+    },
+    "Weapon": {
+        "region": "sea",
+        "gacha_type": 3,
+        "avg_pity": 47.8056,
+        "count": 36,
+        "lose_5050_rate": 0.5
+    },
+    "Newcomer": {
+        "region": "sea",
+        "gacha_type": 4,
+        "avg_pity": 14.7143,
+        "count": 7,
+        "lose_5050_rate": 0.0
+    },
+    "Confirmed": {
+        "region": null,
+        "gacha_type": null,
+        "avg_pity": null,
+        "count": 0,
+        "lose5050": 0
+    }
+}

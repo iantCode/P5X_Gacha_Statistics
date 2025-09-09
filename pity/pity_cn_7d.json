@@ -1,0 +1,66 @@
+[
+    {
+        "startTime": "2025-09-03 00:00",
+        "endTime": "2025-09-04 00:00",
+        "startTimestamp": 1756857600000,
+        "endTimestamp": 1756944000000,
+        "summary": {}
+    },
+    {
+        "startTime": "2025-09-04 00:00",
+        "endTime": "2025-09-05 00:00",
+        "startTimestamp": 1756944000000,
+        "endTimestamp": 1757030400000,
+        "summary": {
+            "Fortune": {
+                "6": 1,
+                "8": 1,
+                "9": 1,
+                "19": 1,
+                "22": 1,
+                "68": 1,
+                "71": 1
+            },
+            "Weapon": {
+                "7": 1,
+                "15": 1,
+                "64": 1
+            }
+        }
+    },
+    {
+        "startTime": "2025-09-05 00:00",
+        "endTime": "2025-09-06 00:00",
+        "startTimestamp": 1757030400000,
+        "endTimestamp": 1757116800000,
+        "summary": {}
+    },
+    {
+        "startTime": "2025-09-06 00:00",
+        "endTime": "2025-09-07 00:00",
+        "startTimestamp": 1757116800000,
+        "endTimestamp": 1757203200000,
+        "summary": {}
+    },
+    {
+        "startTime": "2025-09-07 00:00",
+        "endTime": "2025-09-08 00:00",
+        "startTimestamp": 1757203200000,
+        "endTimestamp": 1757289600000,
+        "summary": {}
+    },
+    {
+        "startTime": "2025-09-08 00:00",
+        "endTime": "2025-09-09 00:00",
+        "startTimestamp": 1757289600000,
+        "endTimestamp": 1757376000000,
+        "summary": {}
+    },
+    {
+        "startTime": "2025-09-09 00:00",
+        "endTime": "2025-09-10 00:00",
+        "startTimestamp": 1757376000000,
+        "endTimestamp": 1757462400000,
+        "summary": {}
+    }
+]

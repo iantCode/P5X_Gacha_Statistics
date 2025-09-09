@@ -1,0 +1,63 @@
+[
+    {
+        "startTime": "2025-09-03 03:00",
+        "endTime": "2025-09-04 03:00",
+        "startTimestamp": 1756868400000,
+        "endTimestamp": 1756954800000,
+        "summary": {
+            "Gold": {
+                "42": 1
+            },
+            "Fortune": {
+                "44": 1
+            }
+        }
+    },
+    {
+        "startTime": "2025-09-04 03:00",
+        "endTime": "2025-09-05 03:00",
+        "startTimestamp": 1756954800000,
+        "endTimestamp": 1757041200000,
+        "summary": {}
+    },
+    {
+        "startTime": "2025-09-05 03:00",
+        "endTime": "2025-09-06 03:00",
+        "startTimestamp": 1757041200000,
+        "endTimestamp": 1757127600000,
+        "summary": {
+            "Weapon": {
+                "16": 1,
+                "70": 1
+            }
+        }
+    },
+    {
+        "startTime": "2025-09-06 03:00",
+        "endTime": "2025-09-07 03:00",
+        "startTimestamp": 1757127600000,
+        "endTimestamp": 1757214000000,
+        "summary": {}
+    },
+    {
+        "startTime": "2025-09-07 03:00",
+        "endTime": "2025-09-08 03:00",
+        "startTimestamp": 1757214000000,
+        "endTimestamp": 1757300400000,
+        "summary": {}
+    },
+    {
+        "startTime": "2025-09-08 03:00",
+        "endTime": "2025-09-09 03:00",
+        "startTimestamp": 1757300400000,
+        "endTimestamp": 1757386800000,
+        "summary": {}
+    },
+    {
+        "startTime": "2025-09-09 03:00",
+        "endTime": "2025-09-10 03:00",
+        "startTimestamp": 1757386800000,
+        "endTimestamp": 1757473200000,
+        "summary": {}
+    }
+]
